@@ -1,0 +1,40 @@
+{
+    "employee_details": [
+        {
+            "Employee_ID": "100",
+            "Name": "Siddharth",
+            "Department": "Python",
+            "Job": "Trainee"
+        },
+        {
+            "Employee_ID": "101",
+            "Name": "Vivek",
+            "Department": "PHP",
+            "Job": "Developer"
+        },
+        {
+            "Employee_ID": "102",
+            "Name": "Hari",
+            "Department": "Python",
+            "Job": "Developer"
+        },
+        {
+            "Employee_ID": "103",
+            "Name": "Akshay",
+            "Department": "PHP",
+            "Job": "Tester"
+        },
+        {
+            "Employee_ID": "104",
+            "Name": "Abhi",
+            "Department": "Java",
+            "Job": "Developer"
+        },
+        {
+            "Employee_ID": "105",
+            "Name": "Amal",
+            "Department": "Java",
+            "Job": "Tester"
+        }
+    ]
+}

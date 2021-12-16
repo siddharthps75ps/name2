@@ -1,0 +1,16 @@
+{
+    "employee_details":[
+        {
+            "employee_id": 102,
+            "name" : "siddarth",
+            "job" : "developer",
+            "department": "python"        
+        },
+        {
+            "employee_id": 102,
+            "name" : "siddarth",
+            "job" : "developer",
+            "department": "python"        
+        }
+    ]
+}
